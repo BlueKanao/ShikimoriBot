@@ -23,22 +23,22 @@
       "BOT_TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": ""
+         "value": "6097450943:AAF6Lh8CuM0aSfI2vN4K43p9Ptj95_zlKjQ"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "20777408"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "fb1ecd3d2c3a9d5d8b4ca1641945b234"
       },    
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2088106582"
+         "value": "6222191262"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -51,24 +51,24 @@
       },
       "BOT_USERNAME": {
          "description": "Username of your bot without the @",
-         "value": "micchon_shikimori_bot",
+         "value": "mommyunohona_bot",
          "required": true
       },
 
       "BOT_ID": {
          "description": "to get your bot_id using other bot or userbot",
-         "value": "5169508699",
+         "value": "6097450943",
          "required": true
       },
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "SOME1HING"
+         "value": "HeadCaptain2"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to shikimori support than consider you made an enemy.",
          "required": true,
-         "value": "tyranteyeeee"
+         "value": "BotsXDevelopment"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -78,7 +78,7 @@
       "LOG_CHANNEL": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001626554919"
+         "value": "-136817688"
       },    
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -170,7 +170,7 @@
       "ANIME_NAME": {
          "description": "If your bot is based on some anime, type the name of anime. Otherwise, manually edit PM_START_TEXT in main.py",
          "required": false,
-         "value": "Shikimori's Not Just a Cutie"
+         "value": "Bleach"
       },
       "START_MEDIA": {
          "description": "Paste link of your media(img, video or gif) that you want to show in /start. Otherwise put None.",
@@ -180,7 +180,7 @@
       "UPDATE_CHANNEL": {
          "description": "Leave it as it is, or if you have your own update channel, put channel username without @.",
          "required": true,
-         "value": "Shikimori_bot_Updates"
+         "value": "BotXDevelopments"
       },
       "APOD_API_KEY": {
          "description": "Get yours from https://api.nasa.gov/ to get NASA's picture of the day.",
@@ -205,12 +205,12 @@
       "NETWORK": {
          "description": "If your bot is connected to a network, Type the Network name. Only type one Network name. Otherwise leave it blank, or just leave【V๏ɪ፝֟𝔡】»Network«",
          "required": false,
-         "value": "【V๏ɪ፝֟𝔡】»Network«"
+         "value": "Jujutsu High Network"
       },
       "NETWORK_USERNAME": {
          "description": "If you have put a netowrk name, you also have to put its username without @",
          "required": false,
-         "value": "VoidxNetwork"
+         "value": "JujutsuHighNetwork"
       },
       "OWNER_WELCOME_MEDIA": {
          "description": "URL of media that you want to show when owner of bot joins any chat. Supported file types (jpg, png, gif, webp, mkv, mp4).",
